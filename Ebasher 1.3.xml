@@ -1450,15 +1450,15 @@ Detector=true
     &quot;SmtpClient&quot;: false
 }
 </ModulesMetaJson>
-     <OutputTitle1 en="First Results" ru="First Results"/>
-     <OutputTitle2 en="Second Results" ru="Second Results"/>
-     <OutputTitle3 en="Third Results" ru="Third Results"/>
-     <OutputTitle4 en="Fourth Results" ru="Fourth Results"/>
-     <OutputTitle5 en="Fifth Results" ru="Fifth Results"/>
-     <OutputTitle6 en="Sixth Results" ru="Sixth Results"/>
-     <OutputTitle7 en="Seventh Results" ru="Seventh Results"/>
-     <OutputTitle8 en="Eighth Results" ru="Eighth Results"/>
-     <OutputTitle9 en="Ninth Results" ru="Ninth Results"/>
+     <OutputTitle1 ru="First Results" en="First Results"/>
+     <OutputTitle2 ru="Second Results" en="Second Results"/>
+     <OutputTitle3 ru="Third Results" en="Third Results"/>
+     <OutputTitle4 ru="Fourth Results" en="Fourth Results"/>
+     <OutputTitle5 ru="Fifth Results" en="Fifth Results"/>
+     <OutputTitle6 ru="Sixth Results" en="Sixth Results"/>
+     <OutputTitle7 ru="Seventh Results" en="Seventh Results"/>
+     <OutputTitle8 ru="Eighth Results" en="Eighth Results"/>
+     <OutputTitle9 ru="Ninth Results" en="Ninth Results"/>
      <OutputVisible1>1</OutputVisible1>
      <OutputVisible2>1</OutputVisible2>
      <OutputVisible3>1</OutputVisible3>
@@ -1471,8 +1471,8 @@ Detector=true
      <ModelList>
           <Model>
                <Name>Invites</Name>
-               <Description en="Invites" ru="Invites"/>
-               <SectionName en="" ru=""/>
+               <Description ru="Invites" en="Invites"/>
+               <SectionName ru="" en=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>LinesFromFile</Type>
@@ -1495,8 +1495,8 @@ Detector=true
           <Defaults/>
           <Model>
                <Name>Login</Name>
-               <Description en="Login" ru="Login"/>
-               <SectionName en="" ru=""/>
+               <Description ru="Login" en="Login"/>
+               <SectionName ru="" en=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>FixedString</Type>
@@ -1510,8 +1510,8 @@ Detector=true
           <Defaults/>
           <Model>
                <Name>Password</Name>
-               <Description en="Password" ru="Password"/>
-               <SectionName en="" ru=""/>
+               <Description ru="Password" en="Password"/>
+               <SectionName ru="" en=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>FixedString</Type>
@@ -1525,8 +1525,8 @@ Detector=true
           <Defaults/>
           <Model>
                <Name>Amout of invites</Name>
-               <Description en="Amout of invites" ru="Количество отправки 1 инвайта в шт"/>
-               <SectionName en="" ru=""/>
+               <Description ru="Количество отправки 1 инвайта в шт" en="Amout of invites"/>
+               <SectionName ru="" en=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>FixedString</Type>
@@ -1540,8 +1540,8 @@ Detector=true
           <Defaults/>
           <Model>
                <Name>Speed Limit</Name>
-               <Description en="Speed Limit" ru="Speed Limit"/>
-               <SectionName en="" ru=""/>
+               <Description ru="Speed Limit" en="Speed Limit"/>
+               <SectionName ru="" en=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>Select</Type>
@@ -1556,8 +1556,8 @@ Detector=true
           <Defaults/>
           <Model>
                <Name>Рассылать на вторую анкету</Name>
-               <Description en="Рассылать на вторую анкету" ru="Рассылать на вторую анкету"/>
-               <SectionName en="" ru=""/>
+               <Description ru="Рассылать на вторую анкету" en="Рассылать на вторую анкету"/>
+               <SectionName ru="" en=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>Select</Type>
